@@ -1,0 +1,15 @@
+Question,Answer,Drug Classification
+sweating_excessive,Yes,Cocaine/Crack
+sweating_excessive,Yes,Benzodiazepines
+heightened_emotions,Yes,Cocaine/Crack
+heightened_emotions,Yes,Marijuana
+erratic_behavior,Yes,Cocaine/Crack
+impaired_coordination,Yes,Marijuana
+impaired_coordination,Yes,Benzodiazepines
+confusion_disorientation,Yes,Benzodiazepines
+confusion_disorientation,Yes,Depressants
+speech_changes,Yes,Marijuana
+speech_changes,Yes,Benzodiazepines
+talkative_energetic,Yes,Cocaine/Crack
+talkative_energetic,Yes,Marijuana
+anxious_paranoia,Yes,Cocaine/Crack
