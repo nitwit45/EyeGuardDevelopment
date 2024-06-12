@@ -1,0 +1,134 @@
+/* Base styles */
+.dashboard-container {
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 0 20px;
+  }
+  
+  .dashboard-header img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .dashboard-header-left {
+    flex: 1;
+  }
+  
+  .dashboard-header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dashboard-header-right img {
+    width: 50px;
+    margin-left: 20px;
+  }
+/*   
+  @media screen and (max-width: 768px) {
+    .dashboard-header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .dashboard-header-right {
+      margin-top: 10px;
+    }
+  
+    .dashboard-header-right img {
+      margin-left: 0;
+      margin-top: 10px;
+    }
+  } */
+  
+
+/* .dashboard-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.dashboard-header-left {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    font-size: 25px;
+}
+
+.dashboard-header-right {
+    display: flex;
+    align-items: center;
+} */
+
+.submit-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard-details {
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+}
+
+.dashboard-acc-type {
+    font-size: 15px;
+    color: rgb(209, 209, 209);
+}
+
+.dashboard-acc-name {
+    font-size: 20px;
+}
+
+/* Mobile optimization */
+@media only screen and (max-width: 768px) {
+    .dashboard-header-left {
+        gap: 0.5rem;
+    }
+    .dashboard-details {
+        text-align: center; 
+    }
+}
+
+
+.image-container {
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+}
+
+.uploaded-image {
+  width: 100%;
+  height: auto;
+}
+
+.css-v9h2rb-MuiPaper-root{
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.dashboard-container{
+  height: 100vh;
+          /* ff 3.6+ */
+          background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+    
+          /* safari 5.1+,chrome 10+ */
+          background:-webkit-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+      
+          /* opera 11.10+ */
+          background:-o-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+      
+          /* ie 10+ */
+          background:-ms-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+      
+          /* global 92%+ browsers support */
+          background:radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%); 
+}

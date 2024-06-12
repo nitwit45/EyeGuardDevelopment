@@ -1,0 +1,31 @@
+.maindiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .report-glassmorphism {
+    width: 100%; /* Adjust width to occupy full width */
+    max-width: 600px;
+    background-color: rgba(9, 255, 0, 0.705);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    margin-bottom: 20px; /* Add margin bottom for spacing */
+    padding: 10px;
+  }
+  
+  .info {
+    margin-top: 20px;
+  }
+  
+  .card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Add gap between cards */
+  }
+  

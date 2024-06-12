@@ -1,0 +1,26 @@
+.photo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+.photo-take-button {
+    margin-top: 50px !important;
+}
+
+.upload-photo-container {
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border: 1px solid white
+}
+
+.captured-image-modal {
+    max-width: 100%;
+    max-height: 400px; /* Adjust the maximum height as needed */
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+  }
+  
