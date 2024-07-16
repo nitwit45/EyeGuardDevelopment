@@ -11,7 +11,6 @@ This project utilizes Vision Transformers and Fuzzy Logic to predict whether an 
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This system combines Vision Transformers with fuzzy logic to analyze images and questionnaire responses to determine if an individual has taken any drugs. The project includes both backend and frontend components, with functionalities to upload images, process data, and provide detailed explanations using LIME for interpretability.
@@ -83,8 +82,7 @@ This system combines Vision Transformers with fuzzy logic to analyze images and 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project's style guidelines and includes appropriate tests.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
 
