@@ -94,7 +94,7 @@ Images of the application interface here for a better visual understanding.
 *Image: Landing Page*
 
 ![Upload Page](https://i.ibb.co/8XTRSCt/Form.png)
-*Image: Upload Page*https://i.ibb.co/vD4xMG7/Results.png
+*Image: Upload Page*
 
 ![Results Page](https://i.ibb.co/vD4xMG7/Results.png)
 *Image: Results Page*
