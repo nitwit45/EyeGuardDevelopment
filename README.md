@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Include images of your application interface here for a better visual understanding. 
 
-![Upload Interface](https://ibb.co/Sv1R875)
+![Landing Page](https://i.ibb.co/nkVzv86/Landing.png)
 *Image: Landing Page*
 
 ![Prediction Results](https://path_to_your_image/prediction_results.png)
