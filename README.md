@@ -88,9 +88,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Example Images
+## Application Screenshots
 
-Include images of your application interface here for a better visual understanding. 
+Images of the application interface here for a better visual understanding. 
 
 ![Landing Page](https://i.ibb.co/nkVzv86/Landing.png)
 *Image: Landing Page*
