@@ -95,8 +95,11 @@ Include images of your application interface here for a better visual understand
 ![Landing Page](https://i.ibb.co/nkVzv86/Landing.png)
 *Image: Landing Page*
 
-![Prediction Results](https://path_to_your_image/prediction_results.png)
-*Image: Prediction Results*
+![Upload Page](https://i.ibb.co/8XTRSCt/Form.png)
+*Image: Upload Page*https://i.ibb.co/vD4xMG7/Results.png
+
+![Results Page](https://i.ibb.co/vD4xMG7/Results.png)
+*Image: Results Page*
 
 ---
 
